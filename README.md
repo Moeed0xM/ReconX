@@ -200,23 +200,6 @@ python reconx.py \
 
 ---
 
-# 📷 Screenshots
-
-## Help Menu
-
-<p align="center">
-<img src="images/help.png" width="95%">
-</p>
-
----
-
-## Port Scanner
-
-<p align="center">
-<img src="images/portscan.png" width="95%">
-</p>
-
----
 
 # 📷 Screenshots
 
