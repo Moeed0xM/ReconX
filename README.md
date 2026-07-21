@@ -379,7 +379,7 @@ For major changes, open an issue first to discuss what you would like to improve
 
 ## root_0xM
 
-Python Security Researcher
+Certified Cybersecurity Technician (C|CT) | Cybersecurity Student & Researcher | Reverse Engineering | Malware Analysis & Exploit Development | Application Developer | Red Teaming | CTF Player | Error_0xT | root_0xM
 
 ReconX Framework Creator
 
