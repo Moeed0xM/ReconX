@@ -129,7 +129,7 @@ ReconX combines multiple reconnaissance tools into a single command.
 # 🖥 Installation
 
 ```bash
-git clone https://github.com/USERNAME/ReconX.git
+git clone https://github.com/Moeed0xM/ReconX.git
 
 cd ReconX
 
