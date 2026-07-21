@@ -340,7 +340,7 @@ ReconX/
 
 ---
 
-# Roadmap
+# Roadmap (  for future )
 
 - [ ] AI-assisted vulnerability explanations
 - [ ] Shodan integration
