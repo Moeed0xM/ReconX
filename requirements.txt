@@ -1,0 +1,10 @@
+# Core
+requests>=2.32.0
+
+# Recommended
+rich>=13.9.0
+dnspython>=2.7.0
+python-whois>=0.9.5
+
+# Optional (for screenshots)
+selenium>=4.35.0
