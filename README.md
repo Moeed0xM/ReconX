@@ -218,10 +218,28 @@ python reconx.py \
 
 ---
 
+# 📷 Screenshots
+
+## Help Menu
+
+<p align="center">
+<img src="images/1.png" width="95%">
+</p>
+
+---
+
+## Port Scanner
+
+<p align="center">
+<img src="images/2.png" width="95%">
+</p>
+
+---
+
 ## Exploit Suggestions
 
 <p align="center">
-<img src="images/exploits.png" width="95%">
+<img src="images/3.png" width="95%">
 </p>
 
 ---
@@ -229,7 +247,7 @@ python reconx.py \
 ## HTML Report Dashboard
 
 <p align="center">
-<img src="images/report-dashboard.png" width="95%">
+<img src="images/4.png" width="95%">
 </p>
 
 ---
@@ -237,7 +255,7 @@ python reconx.py \
 ## HTML Exploit Report
 
 <p align="center">
-<img src="images/report-exploits.png" width="95%">
+<img src="images/5.png" width="95%">
 </p>
 
 ---
@@ -245,7 +263,7 @@ python reconx.py \
 ## DNS + SSL Analysis
 
 <p align="center">
-<img src="images/dns-ssl.png" width="95%">
+<img src="images/6.png" width="95%">
 </p>
 
 ---
